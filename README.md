@@ -1,10 +1,9 @@
 # atmospheric-science
 
 
-This repository contains of the notebooks that were developed for the purpose of detecting bots on Twitter using data science and machine learning techniques, for the AC209a fall semester class at Harvard University.
+This repository contains of the materials that are related to atmosspheric chemistry and physcis.
 
-Access the Github Pages website [here]().
-
+Access the Github Pages website [here](https://cindy20180901.github.io/phd-research-atmospheric-science/).
 
 
 
