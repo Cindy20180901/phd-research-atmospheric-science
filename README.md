@@ -1,4 +1,4 @@
-# atmospheric-science
+# Atmospheric-science
 
 
 This repository contains of the materials that are related to atmosspheric chemistry and physcis.
