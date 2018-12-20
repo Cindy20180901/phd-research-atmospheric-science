@@ -1,1 +1,1 @@
-# phd-research-atmospheric-science
+# atmospheric-science
